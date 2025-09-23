@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **DCCaselles/DCCaselles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm a PhD student at the University of Florida in the College of Design, Construction, and Planning (Go Gators!). I work on understanding the relationship between the natural and built environment to find solutions to resource (water, energy, that kind of thing) shortage problems 
 
@@ -12,4 +11,4 @@ I'm a PhD student at the University of Florida in the College of Design, Constru
 - 📫 How to reach me: I'm just an email away at dcorreacaselles@ufl.edu
 - 😄 Pronouns: she/her/hers 
 - ⚡ Fun fact: Love playing basketball 
--->
+
