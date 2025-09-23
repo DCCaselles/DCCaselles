@@ -5,8 +5,8 @@ I'm a PhD student at the University of Florida in the College of Design, Constru
 
 - 🔭 I’m currently working on understanding water pollution around urban areas
 - 🌱 I’m currently learning temporal data analysis and machine learning techniques
-- 👯 I’m looking to collaborate on risk assessments and sustainable development ideas...
-- 🤔 I’m looking for help with understanding urban dynamics and data analysis techniques...
+- 👯 I’m looking to collaborate on risk assessments and sustainable development ideas
+- 🤔 I’m looking for help with understanding urban dynamics and data analysis techniques
 - 💬 Ask me about river's health and water pollution issues
 - 📫 How to reach me: I'm just an email away at dcorreacaselles@ufl.edu
 - 😄 Pronouns: she/her/hers 
