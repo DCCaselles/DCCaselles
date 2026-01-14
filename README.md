@@ -12,4 +12,3 @@ I'm just an email away at dcorreacaselles@ufl.edu
 - 😄 Pronouns: she/her/hers 
 - ⚡ Fun fact: I love playing basketball 
 
-**DCCaselles/DCCaselles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
